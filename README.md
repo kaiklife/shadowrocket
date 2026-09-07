@@ -47,7 +47,7 @@
 | bilibili | B 站 | 直连 |
 | Spotify | Spotify | 香港节点 |
 | ChatApps | Telegram / Twitter / FB / IG / Whatsapp / Threads | 香港节点 |
-| 开发 | GitHub + Docker Hub | 直连 |
+| 开发 | GitHub + Docker Hub | 香港节点 |
 | Google | Google | 香港节点 |
 | Microsoft | Microsoft | 直连 |
 | 游戏平台 | Steam / Xbox / PlayStation / Nintendo | 直连 |
