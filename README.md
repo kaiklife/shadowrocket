@@ -58,7 +58,7 @@
 
 1. **去广告** → `Advertising.list` REJECT
 2. **AI / 流媒体 / 社交** → 各自用途组
-3. **国内直连** → Lan / China / `GEOIP,CN` / Apple / SteamCN → DIRECT
+3. **国内直连** → Lan / ChinaMax(11万纯域名 DOMAIN-SET) / `GEOIP,CN` / Apple / SteamCN → DIRECT
 4. **其他特定** → Google / GitHub / Docker / Microsoft / Steam / Sony / Xbox / Nintendo
 5. **兜底** → `Global.list` → 国外网站
 6. **漏网之鱼** → `FINAL` → 漏网之鱼
